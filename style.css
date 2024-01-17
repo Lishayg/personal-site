@@ -1,34 +1,31 @@
 .background-color{
-    background: rgb(244,193,224);
-    background: linear-gradient(335deg, rgba(244,193,224,1) 0%, rgba(239,229,216,1) 67%);
+    background: rgb(244, 220, 193);
+    background: linear-gradient(335deg, rgb(244, 220, 193) 0%, rgb(189, 109, 152) 67%);
     padding-top: 20px;
 }
 
 #intro, #about, #projects, #contact, #home{
-    color: #740f4c;
+    color: #75194a;
     gap: 20px;
 } 
 
 #name{
-    color: #740f4c;
+    color: #75194a;
     font-family: 'Pacifico', cursive;
 }
 
 .hand-write-pink{
-    color: #740f4c;
+    color: #75194a;
     font-family: 'Montserrat Alternates', sans-serif;
     margin-bottom: 20px;
 }
 
 .btn.emphasis, #current{
-    background-color: #740f4c;
+    background-color: #75194a;
     color: white;
 }
 
-#udemy{
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
+
 
 .years{
     color: blue;
@@ -38,7 +35,7 @@
 
 #education h3{
     margin-top: 50px;
-    color: #740f4c;
+    color: #75194a;
 }
 
 .work-text{
@@ -52,8 +49,8 @@
 
 
 button.light{
-    color: #740f4c;
-    border-color: #740f4c;
+    color: #75194a;
+    border-color: #75194a;
 }
 
 .light-pink-color{
