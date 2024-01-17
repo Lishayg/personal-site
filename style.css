@@ -4,7 +4,7 @@
     padding-top: 20px;
 }
 
-#intro, #about, #projects, #contact, #home{
+#intro, #projects, #contact, #home{
     color: #75194a;
     gap: 20px;
 } 
@@ -25,24 +25,6 @@
     color: white;
 }
 
-
-
-.years{
-    color: blue;
-    margin-top: 10px;
-    margin-bottom: 0px;
-}
-
-#education h3{
-    margin-top: 50px;
-    color: #75194a;
-}
-
-.work-text{
-    margin-top: 0px;
-    margin-bottom: 40px;
-}
-
 .margin{
     padding: 80px;
 }
@@ -51,12 +33,4 @@
 button.light{
     color: #75194a;
     border-color: #75194a;
-}
-
-.light-pink-color{
-    color: #493315;
-}
-
-.light-brown-color{
-    color: #efe5d8;
 }
